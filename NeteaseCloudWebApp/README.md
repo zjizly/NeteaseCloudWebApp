@@ -7,7 +7,7 @@
 ### 技术栈
 - VUE全家桶(vue vue-router vuex)
 - axios
-- Muse-UI(一个基于Vue2.x的material design 风格UI框架)
+- Muse-UI
 
 ## 运行截图
 ![首页](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/1.png)
