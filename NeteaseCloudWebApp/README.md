@@ -1,11 +1,11 @@
 # netease-clound-webapps
 
-> 这是一个用VUEJS写高仿网易云音乐的webapp，只实现了APP的核心功能，这个项目会长期进行更新。
+> 这是一个用VUEJS写高仿网易云音乐的webapp，只实现了APP的核心功能。
 
 [在线地址](http://musicapi.duapp.com/)
 
 ### 技术栈
-- 传说中的VUE全家桶(vue vue-router vuex)
+- VUE全家桶(vue vue-router vuex)
 - axios
 - Muse-UI(一个基于Vue2.x的material design 风格UI框架)
 
